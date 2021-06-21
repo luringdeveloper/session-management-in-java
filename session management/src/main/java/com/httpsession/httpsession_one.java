@@ -1,4 +1,4 @@
-package httpsession;
+package com.httpsession;
 
 import java.io.IOException;
 

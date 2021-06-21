@@ -1,4 +1,4 @@
-package hiden;
+package com.hiden;
 
 import java.io.IOException;
 

@@ -1,4 +1,4 @@
-package url;
+package com.url;
 
 import java.io.IOException;
 
